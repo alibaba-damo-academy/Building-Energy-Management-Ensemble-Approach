@@ -1,4 +1,8 @@
+
 ### How to reproduce the results
+
+Solution for NeurIPS Citylearn Challenge 2022: https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge
+
 Firstly, please install the necessary packages. For example, you can create an environment from the provided .yml file, then activate the environment.
 ```
 conda env create -f environment.yml
